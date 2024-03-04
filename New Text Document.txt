@@ -1,0 +1,22 @@
+Lỗ hổng File Upload Vulnerabilities
+
+https://battle.cookiearena.org/challenges/web/unrestricted-file-upload
+https://battle.cookiearena.org/challenges/web/obfuscating-file-extensions
+https://battle.cookiearena.org/challenges/web/flawed-file-type-validation
+https://battle.cookiearena.org/challenges/web/flawed-validation-of-file-content
+https://battle.cookiearena.org/challenges/web/insufficient-blacklisting-file-types
+https://battle.cookiearena.org/challenges/web/file-upload-via-put-method
+
+path traversal
+
+https://battle.cookiearena.org/challenges/web/under-construction
+https://battle.cookiearena.org/challenges/web/file-download
+https://battle.cookiearena.org/challenges/web/baby-os-path
+https://battle.cookiearena.org/challenges/web/path-traversal
+https://battle.cookiearena.org/challenges/web/upload-file-path-traversal
+https://battle.cookiearena.org/challenges/web/unzip-me-now
+https://battle.cookiearena.org/challenges/cve/cve-2021-43798
+https://battle.cookiearena.org/challenges/cve/cve-2023-1177
+https://battle.cookiearena.org/challenges/cve/cve-2021-41773-httpd
+https://battle.cookiearena.org/challenges/web/mutation-lab
+https://battle.cookiearena.org/challenges/web/flask-dev
